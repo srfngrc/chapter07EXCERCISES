@@ -130,6 +130,8 @@ namespace Chapter07Excercises
                     {
                         Console.WriteLine("ThrowException(\"nested index\") general"
                         + " catch block reached.");
+                        //added by teacher EDUARDO
+                        throw;
                     }
                     finally
                     {
