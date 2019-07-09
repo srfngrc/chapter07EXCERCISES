@@ -1,0 +1,7 @@
+C:\VSRepositories\chapter07EXCERCISES\obj\Debug\Chapter07Excercises.csprojAssemblyReference.cache
+C:\VSRepositories\chapter07EXCERCISES\obj\Debug\Chapter07Excercises.csproj.CoreCompileInputs.cache
+C:\VSRepositories\chapter07EXCERCISES\bin\Debug\Chapter07Excercises.exe.config
+C:\VSRepositories\chapter07EXCERCISES\bin\Debug\Chapter07Excercises.exe
+C:\VSRepositories\chapter07EXCERCISES\bin\Debug\Chapter07Excercises.pdb
+C:\VSRepositories\chapter07EXCERCISES\obj\Debug\Chapter07Excercises.exe
+C:\VSRepositories\chapter07EXCERCISES\obj\Debug\Chapter07Excercises.pdb
